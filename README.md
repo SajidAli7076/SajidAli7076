@@ -1,4 +1,4 @@
-# 👋 SAJID ALI
+# SAJID ALI
 
 ### 🎓 Academic Profile
 *   **Institution:** VIT Bhopal University 🏫
