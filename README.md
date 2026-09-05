@@ -9,10 +9,10 @@
 ### 🚀 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** — SGPA 8.33 (1st sem) & 8.69 (2nd sem)
-- 🧠 Solid grounding in **Data Structures, Algorithms & OOP**[cite: 1]
-- 🤖 Specialized focus on **AI/ML, NLP & Predictive Modeling**[cite: 1]
-- 🛠️ Currently developing practical tools in **Applied Machine Learning & Python**[cite: 1]
-- ⚙️ Skilled in **C++, Java, Python, and Linux environments**[cite: 1]
+- 🧠 Solid grounding in **Data Structures, Algorithms & OOP**
+- 🤖 Specialized focus on **AI/ML, NLP & Predictive Modeling**
+- 🛠️ Currently developing practical tools in **Applied Machine Learning & Python**
+- ⚙️ Skilled in **C++, Java, Python, and Linux environments**
 
 ---
 
@@ -29,7 +29,7 @@
 | 🛡️ Phishing Email Detector | ⚖️ BMI Calculator & Health Advisor |
 | :--- | :--- |
 | **Tech:** Python • Scikit-learn • NLP • NLTK | **Tech:** Python • Algorithms • Conditional Logic |
-| • Engineered a fraud detection classifier using NLP & TF-IDF vectorization[cite: 1]<br>• Implemented preprocessing pipelines with tokenization and lemmatization[cite: 1]<br>• Applied supervised learning models for accurate message verification[cite: 1] | • Built a modular health utility computing biometric fitness metrics[cite: 1]<br>• Designed rule-based personalized health and lifestyle recommendations[cite: 1]<br>• Clean, modular code structure following core software design patterns[cite: 1] |
+| • Engineered a fraud detection classifier using NLP & TF-IDF vectorization[cite: 1]<br>• Implemented preprocessing pipelines with tokenization and lemmatization<br>• Applied supervised learning models for accurate message verification | • Built a modular health utility computing biometric fitness metrics<br>• Designed rule-based personalized health and lifestyle recommendations<br>• Clean, modular code structure following core software design patterns |
 
 ---
 
@@ -45,17 +45,17 @@
 
 | Certification | Provider | Focus Area |
 | :--- | :--- | :--- |
-| Fundamentals of AI and ML | Vityarthi | Neural networks, predictive modeling & data analysis[cite: 1] |
-| Python Essentials | Vityarthi | Advanced syntax, data structures & algorithmic logic[cite: 1] |
-| Digital Literacy | Vityarthi | Cybersecurity, cloud collaboration & software tools[cite: 1] |
+| Fundamentals of AI and ML | Vityarthi | Neural networks, predictive modeling & data analysis |
+| Python Essentials | Vityarthi | Advanced syntax, data structures & algorithmic logic |
+| Digital Literacy | Vityarthi | Cybersecurity, cloud collaboration & software tools |
 
 ---
 
 ### 🌟 Achievements
 
 - 🎯 **8.33 & 8.69 SGPA** across first two semesters of B.Tech CSE
-- 📚 **91% aggregate** in Intermediate (PCM) from Motilal Nehru Public School[cite: 1]
-- 🛡️ Built an end-to-end NLP-driven email security classifier[cite: 1]
+- 📚 **91% aggregate** in Intermediate (PCM) from Motilal Nehru Public School
+- 🛡️ Built an end-to-end NLP-driven email security classifier
 
 ---
 
