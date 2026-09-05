@@ -1,9 +1,74 @@
-# SAJID ALI
+<h1 align="center">Hi there, I'm Sajid Ali 👋</h1>
 
-### 🎓 Academic Profile
-*   **Institution:** VIT Bhopal University 🏫
-*   **Branch:** Computer Science Engineering (CSE) 💻
-*   **Year:** 1st Year
+<p align="center">
+  <b>B.Tech Computer Science & Engineering @ VIT Bhopal University</b>
+</p>
 
-### 🎯 My Goal
-I hope to learn how to use **Python** and **C++** to solve complex engineering and physics problems.
+---
+
+### 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** — SGPA 8.33 (1st sem) & 8.69 (2nd sem)
+- 🧠 Solid grounding in **Data Structures, Algorithms & OOP**[cite: 1]
+- 🤖 Specialized focus on **AI/ML, NLP & Predictive Modeling**[cite: 1]
+- 🛠️ Currently developing practical tools in **Applied Machine Learning & Python**[cite: 1]
+- ⚙️ Skilled in **C++, Java, Python, and Linux environments**[cite: 1]
+
+---
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,git,github,vscode,linux,gcp" />
+</p>
+
+---
+
+### 💡 Featured Projects
+
+| 🛡️ Phishing Email Detector | ⚖️ BMI Calculator & Health Advisor |
+| :--- | :--- |
+| **Tech:** Python • Scikit-learn • NLP • NLTK | **Tech:** Python • Algorithms • Conditional Logic |
+| • Engineered a fraud detection classifier using NLP & TF-IDF vectorization[cite: 1]<br>• Implemented preprocessing pipelines with tokenization and lemmatization[cite: 1]<br>• Applied supervised learning models for accurate message verification[cite: 1] | • Built a modular health utility computing biometric fitness metrics[cite: 1]<br>• Designed rule-based personalized health and lifestyle recommendations[cite: 1]<br>• Clean, modular code structure following core software design patterns[cite: 1] |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SajidAli7076&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 📜 Certifications
+
+| Certification | Provider | Focus Area |
+| :--- | :--- | :--- |
+| Fundamentals of AI and ML | Vityarthi | Neural networks, predictive modeling & data analysis[cite: 1] |
+| Python Essentials | Vityarthi | Advanced syntax, data structures & algorithmic logic[cite: 1] |
+| Digital Literacy | Vityarthi | Cybersecurity, cloud collaboration & software tools[cite: 1] |
+
+---
+
+### 🌟 Achievements
+
+- 🎯 **8.33 & 8.69 SGPA** across first two semesters of B.Tech CSE
+- 📚 **91% aggregate** in Intermediate (PCM) from Motilal Nehru Public School[cite: 1]
+- 🛡️ Built an end-to-end NLP-driven email security classifier[cite: 1]
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/SajidAli7076" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sajidali70763@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
