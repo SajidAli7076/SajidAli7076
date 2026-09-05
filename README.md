@@ -29,7 +29,7 @@
 | 🛡️ Phishing Email Detector | ⚖️ BMI Calculator & Health Advisor |
 | :--- | :--- |
 | **Tech:** Python • Scikit-learn • NLP • NLTK | **Tech:** Python • Algorithms • Conditional Logic |
-| • Engineered a fraud detection classifier using NLP & TF-IDF vectorization[cite: 1]<br>• Implemented preprocessing pipelines with tokenization and lemmatization<br>• Applied supervised learning models for accurate message verification | • Built a modular health utility computing biometric fitness metrics<br>• Designed rule-based personalized health and lifestyle recommendations<br>• Clean, modular code structure following core software design patterns |
+| • Engineered a fraud detection classifier using NLP & TF-IDF vectorization<br>• Implemented preprocessing pipelines with tokenization and lemmatization<br>• Applied supervised learning models for accurate message verification | • Built a modular health utility computing biometric fitness metrics<br>• Designed rule-based personalized health and lifestyle recommendations<br>• Clean, modular code structure following core software design patterns |
 
 ---
 
